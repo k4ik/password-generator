@@ -42,10 +42,13 @@ form {
 
 p, label, h1 {
     color: var(--text-color);
+    width: 100%;
 }
 
 h1 {
     margin-bottom: 20px;
+    text-align: center;
+
 }
 
 input {
@@ -56,4 +59,5 @@ input {
 
 p {
     margin-top: 20px;
+    text-align: center;
 }
