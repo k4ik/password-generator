@@ -19,12 +19,14 @@
 </head>
 <body>
     <main>
-        <h1>Password Generator</h1>
-        <form method="post">
-            <label for="lenght">Password length:</label>
-            <input type="text" placeholder="12" name="lenght">
-        </form>
-        <p><?php echo $randomPassword; ?></p>
+        <div class="container">
+            <h1>Password Generator</h1>
+            <form method="post">
+                <label for="lenght">Password length:</label>
+                <input type="text" placeholder="12" name="lenght">
+            </form>
+            <p><?php echo $randomPassword; ?></p>
+        </div>
     </main>
 </body>
 </html>
