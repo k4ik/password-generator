@@ -6,12 +6,12 @@
 Clone this repository to your local environment:
 
 ```bash
-git clone https://your-repository.git
+git clone https://github.com/k4ik/password-generator.git
 ```
 Navigate to the project directory:
 
 ```bash
-cd password-generator-php
+cd password-generator
 ```
 
 Run the PHP built-in server to start the frontend and backend. Use the following command:
